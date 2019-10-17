@@ -1,0 +1,13 @@
+sample_pose_data : 1 set
+origin_pose_data : 수집 당시 날것 그대로 데이터
+pose_data :  dataset이 될 데이터
+
+
+현재 pose_data  5set만 저장됨 
+
+기본자세
+총 꺼내는거
+권총 꺼내는거
+칼 꺼내는거 
+ 문 열기
+주먹  
